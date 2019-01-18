@@ -1,7 +1,8 @@
 # Cows-and-Bulls
 
 
-![Code Snippet](C:/Users/nagar/Desktop/DigiSoft/CowsAndBulls.PNG)
+
+![cowsandbulls](https://user-images.githubusercontent.com/35525360/51375549-2d0f5000-1b2c-11e9-9ff7-f8e9eea381d7.PNG)
 
 
 Cows and Bulls is a popular number guessing game that challenges our analytical abilities. Here is how it is played:
