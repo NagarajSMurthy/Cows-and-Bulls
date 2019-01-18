@@ -11,4 +11,4 @@ Similarly, a combination of bulls and cows can also exist. For example, if the g
 
 Also, if none of the digits are right, the broker will reply 'no cows, no bulls' . When the player guesses the correct three digit number (Three Bulls), he wins. 
 
-In this program, the computer which generates the three digit random number is the broker. Go ahead and give it a try.  
+In this program, the computer which generates the three digit random number is the broker. Go ahead and give it a try. Have fun.  
