@@ -1,8 +1,8 @@
 # Cows-and-Bulls
 
 
-![Code Snippet](C:/Users/nagar/Desktop/DigiSoft/CowsAndBulls.png)
 
+<img src="C:/Users/nagar/Desktop/DigiSoft/CowsAndBulls.png"/>
 
 Cows and Bulls is a popular number guessing game that challenges our analytical abilities. Here is how it is played:
 - The game involves a broker and a player. The broker chooses a random 3-digit number such that no two digits are the same and there are no zeroes in the number. For example, the random number could be 754 but 755 isn’t allowed because the digit 5 is repeated twice.
